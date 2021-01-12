@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../src/secret_handshake'
 
 RSpec.describe SecretHandshake do
